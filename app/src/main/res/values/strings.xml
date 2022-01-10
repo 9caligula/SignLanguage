@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Язык Жестов</string>
+    <string name="Alphabet">Алфавит</string>
+    <string name="Pronouns">Местоимения</string>
+    <string name="Adjectives">Прилагательные</string>
+    <string name="Polite_words">Вежливые слова</string>
+    <string name="Money">Деньги</string>
+    <string name="People">Люди</string>
+    <string name="Documents">Документы</string>
+    <string name="Colors">Цвета</string>
+    <string name="Family">Семья</string>
+    <string name="Questions">Вопросы</string>
+</resources>
